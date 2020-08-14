@@ -1,6 +1,6 @@
 # todoeyflutter
 
-![stronghold logo](todoscreen.png)
+A new Flutter application.
 
 ## Getting Started
 
