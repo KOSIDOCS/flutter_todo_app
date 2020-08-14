@@ -1,10 +1,8 @@
-# todoeyflutter
+# todoeyflutter ScreenShots
+![stronghold logo](img/stronghold-logo-left.png) ![stronghold logo](img/stronghold-logo-left.png) ![stronghold logo](img/stronghold-logo-left.png)
 
-A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+## Getting Started With Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
