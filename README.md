@@ -1,5 +1,5 @@
 # todoeyflutter ScreenShots
-![stronghold logo](img/stronghold-logo-left.png) ![stronghold logo](img/stronghold-logo-left.png) ![stronghold logo](img/stronghold-logo-left.png)
+![todoapp_screenshot](todoscreen.png) ![todoapp_screenshot](todoscreen2.png) ![todoapp_screenshot](todoscreen3.png)
 
 
 ## Getting Started With Flutter
